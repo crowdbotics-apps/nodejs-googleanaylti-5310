@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-googleanaylti-5310",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crowdbotics-apps/nodejs-googleanaylti-5310.git"
+  },
+  "keywords": [],
+  "author": "Aman Mittal <amandeepmittal@live.com> (www.amanhimself.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crowdbotics-apps/nodejs-googleanaylti-5310/issues"
+  },
+  "homepage": "https://github.com/crowdbotics-apps/nodejs-googleanaylti-5310#readme",
+  "dependencies": {
+    "connect-ensure-login": "^0.1.1",
+    "cookie-parser": "^1.4.4",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "googleapis": "^22.2.0",
+    "moment": "^2.24.0"
+  }
+}
