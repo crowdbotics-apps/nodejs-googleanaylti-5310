@@ -24,6 +24,6 @@
     "express": "^4.17.1",
     "express-session": "^1.16.2",
     "googleapis": "^22.2.0",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   }
 }
